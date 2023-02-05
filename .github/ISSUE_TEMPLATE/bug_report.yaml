@@ -50,7 +50,7 @@ body:
   - type: input
     id: permid
     attributes:
-      label: ARMA User ID
+      label: ERP User ID
       description: Your ARMA account user ID (/getmyid)
       placeholder: "50"
     validations:
