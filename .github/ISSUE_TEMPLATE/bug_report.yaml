@@ -50,8 +50,8 @@ body:
   - type: input
     id: permid
     attributes:
-      label: ERP User ID
-      description: Your ERP account user ID (/getmyid)
+      label: GBRP User ID
+      description: Your GBRP account user ID (/getmyid)
       placeholder: "50"
     validations:
       required: true
